@@ -51,7 +51,7 @@ fs.readFile('main.mustache', 'utf8', (err, template) => {
   const output = mustache.render(template, view);
 
   // Write the output to a file
-  fs.writeFile('index.html', output, (err) => {
+  fs.writeFile('README.md', output, (err) => {
     if (err) {
       console.error(err);
       return;
