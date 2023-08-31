@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Ahir</h1>
 <h3 align="center">A passionate web developer and learner</h3>
 <p align="center">
-  <img src="https:&#x2F;&#x2F;media.licdn.com&#x2F;dms&#x2F;image&#x2F;D4D16AQEc93J6J55QeQ&#x2F;profile-displaybackgroundimage-shrink_350_1400&#x2F;0&#x2F;1688890910250?e&#x3D;1698883200&amp;v&#x3D;beta&amp;t&#x3D;x6eYdc970rIWpf8T7k5XT7FlIDBfgbqzbnjsF9PTetk" width="250" height="250" alt="Aditya Ahir">
+  <img src="https:&#x2F;&#x2F;media.licdn.com&#x2F;dms&#x2F;image&#x2F;C4D03AQHL6m9ax17DAQ&#x2F;profile-displayphoto-shrink_400_400&#x2F;0&#x2F;1659938041918?e&#x3D;1698883200&amp;v&#x3D;beta&amp;t&#x3D;6d7FdEfo6gj8z5X7-hqpLTZGwYlN0Ygb6lukmhqWwug" width="250" height="250" alt="Aditya Ahir">
 </p>
 
 <h2 align="center">About Me</h2>
