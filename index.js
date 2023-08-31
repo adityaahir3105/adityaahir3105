@@ -43,7 +43,7 @@ fs.readFile('main.mustache', 'utf8', (err, template) => {
         end_date: 'Current'
       }
     ],
-    username: 'adityaahir01',
+    username: 'adityaahir3105',
     linkedin_url: 'https://www.linkedin.com/in/adityaahir01/'
   };
 
