@@ -13,9 +13,9 @@
 
 <h2 align="center">GitHub Statistics</h2>
 <p align="center">
-  <a href="https://github.com/adityaahir01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaahir01&show_icons=true&theme=radical&count_private=true" alt="adityaahir01" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaahir01&theme=radical&layout=compact" alt="adityaahir01" />
+  <a href="https://github.com/adityaahir3105">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaahir3105&show_icons=true&theme=radical&count_private=true" alt="adityaahir3105" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaahir3105&theme=radical&layout=compact" alt="adityaahir3105" />
   </a>
 </p>
 
