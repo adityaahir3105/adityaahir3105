@@ -1,0 +1,22 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "My Read me file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityaahir3105/adityaahir3105.git#main"
+  },
+  "author": "Aditya Ahir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityaahir3105/adityaahir3105/issues"
+  },
+  "homepage": "https://github.com/adityaahir3105/adityaahir3105/tree/main#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
