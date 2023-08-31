@@ -1,1 +1,27 @@
-My name is {{name}} and today is {{date}}.
+<h1 align="center">Hi 👋, I'm {{ name }}</h1>
+<h3 align="center">{{ bio }}</h3>
+<p align="center">
+  <img src="{{ profile_pic_url }}" width="250" height="250" alt="{{ name }}">
+</p>
+
+<h2 align="center">About Me</h2>
+<p align="center">
+  <b>Skills:</b> {{#skills}} {{ skill }} {{/skills}}<br>
+  <b>Education:</b> {{#education}} {{ degree }} in {{ field }} from {{ institution }} ({{ start_year }} - {{ end_year }}) {{/education}}<br>
+  <b>Experience:</b> {{#experience}} {{ role }} at {{ company }} ({{ start_date }} - {{ end_date }}) {{/experience}}
+</p>
+
+<h2 align="center">GitHub Statistics</h2>
+<p align="center">
+  <a href="https://github.com/{{ username }}">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username={{ username }}&show_icons=true&theme=radical&count_private=true" alt="{{ username }}" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ username }}&theme=radical&layout=compact" alt="{{ username }}" />
+  </a>
+</p>
+
+<h2 align="center">Connect with me</h2>
+<p align="center">
+  <a href="{{ linkedin_url }}"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="{{ twitter_url }}"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+  <a href="{{ instagram_url }}"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
