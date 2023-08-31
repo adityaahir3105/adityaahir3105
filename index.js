@@ -17,7 +17,7 @@ fs.readFile('main.mustache', 'utf8', (err, template) => {
   const view = {
     name: 'Aditya Ahir',
     bio: 'A passionate web developer and learner',
-    profile_pic_url: 'https://media.licdn.com/dms/image/D4D16AQEc93J6J55QeQ/profile-displaybackgroundimage-shrink_350_1400/0/1688890910250?e=1698883200&v=beta&t=x6eYdc970rIWpf8T7k5XT7FlIDBfgbqzbnjsF9PTetk',
+    profile_pic_url: 'https://media.licdn.com/dms/image/C4D03AQHL6m9ax17DAQ/profile-displayphoto-shrink_400_400/0/1659938041918?e=1698883200&v=beta&t=6d7FdEfo6gj8z5X7-hqpLTZGwYlN0Ygb6lukmhqWwug',
     skills: [
       { skill: 'Java' },
       { skill: 'Reactive Programming' },
