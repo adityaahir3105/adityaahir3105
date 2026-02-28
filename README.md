@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Ahir&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Ahir&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20@%20Lowe's%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Passionate+about+clean+code+%26+best+practices;Always+learning+new+technologies)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 ```yaml
 name: Aditya Ahir
-role: Associate Software Engineer
+role: Software Engineer
 company: Lowe's Services Pvt. Ltd.
 location: India
 education: B.Tech in Electronics & Communication | Nirma University (2017-2021)
@@ -26,7 +26,7 @@ interests: [Web Development, Reactive Programming, DevOps]
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🔭 Currently working at **Lowe's Services Pvt. Ltd.**
+- 🔭 Currently working as **Software Engineer at Lowe's**
 - 🌱 Exploring **Cloud Architecture & Microservices**
 - 💡 Passionate about **Clean Code & Best Practices**
 - 🎯 Goal: Contributing to impactful projects
@@ -99,6 +99,7 @@ interests: [Web Development, Reactive Programming, DevOps]
 
 <div align="center">
   
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adityaahir.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaahir01/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaahir3105)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaahir3105@gmail.com)
